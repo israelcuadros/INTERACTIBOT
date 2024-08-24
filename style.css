@@ -1,0 +1,33 @@
+html{
+background-color:#071952;
+}
+
+.container-fluid{
+background-color:#071952;
+padding-top: 1%;
+color: #fff;
+}
+
+.row1 {
+    display: flex;
+  }
+
+  .izquierda1 {
+    flex: 1;
+    background-color: #071952;
+    color: #fff;
+    font-size: 30px;
+  }
+  
+  .derecha1 {
+    flex: 1;
+    background-color: #071952;
+
+  }
+  
+  .derecha1 img {
+    max-width: 50%;
+    height: auto;
+    margin-left: 50%;
+  }
+  
